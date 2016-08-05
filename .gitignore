@@ -1,0 +1,6 @@
+/x64*
+/algorithms/x64*
+/algorithms/Debug*
+/algorithms/Release*
+/.vs*
+*.vcxproj.user
